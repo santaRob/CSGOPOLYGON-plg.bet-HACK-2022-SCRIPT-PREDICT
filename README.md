@@ -1,9 +1,3 @@
-//How to use ?  
-//1.Copy whole "Raw Paste Data" section 
-//2.Go on csgopolygon(plg.bet) press F12 or ctrl+shift+j on the keyboard 
-//3.Paste and press Enter(CTRL+V)
-
-
 //$showColor = $("<button id='showColor' style='position:absolute;right:120px;width:100px;margin:10px;margin-right:25px;border-radius:6px' onClick='hideOtherInfo()'>Show All</button>");$showColor.addClass("btn-inverse");$colorField.append($showColor);
 var pQ = "",  $color_1 = 4, $color_2 = 927, $color_3 = 4, $color_4 = 4;
 //$setColors = $("<button id='setColors' style='position:absolute;right:0px;width:100px;margin:10px;margin-right:25px;border-radius:6px' data-open='0' onClick='showMoreOptions()'>&#x25BC</button>");$setColors.addClass("btn-inverse");$colorField.append($setColors);
